@@ -19,11 +19,14 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Questões
 ### 3. [Kruskal](https://www.hackerrank.com/challenges/kruskalmstrsub/problem)
-![Alt text](./img/image-2.png)
-![Alt text](./img/image-3.png)
+![Alt text](./img/image.png)
+![Alt text](./img/image1.png)
+![Alt text](./img/image2.png)
 
-### 4. [Prim]()
-
+### 4. [Prim](https://www.hackerrank.com/challenges/primsmstsub/problem)
+![Alt text](./img/image3.png)
+![Alt text](./img/image4.png)
+![Alt text](./img/image5.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
