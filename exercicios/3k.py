@@ -1,4 +1,4 @@
-# https://www.hackerprioridade.com/challenges/kruskalmstrsub/problem
+# https://www.hackerrank.com/challenges/kruskalmstrsub/problem
 
 import heapq
 
