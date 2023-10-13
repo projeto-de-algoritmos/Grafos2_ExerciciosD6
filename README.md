@@ -17,6 +17,14 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+## Questões
+### 3. [Kruskal](https://www.hackerprioridade.com/challenges/kruskalmstrsub/problem)
+![Alt text](./img/image-2.png)
+![Alt text](./img/image-3.png)
+
+### 4. [Prim]()
+
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
