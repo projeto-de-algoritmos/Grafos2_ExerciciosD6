@@ -24,6 +24,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ### 2. [Kruskal](https://www.beecrowd.com.br/judge/pt/problems/view/1152)
 ![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOn/assets/78980796/54872980-74fe-454c-a9e9-ff43ee935aed)
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOn/assets/78980796/938cd61e-080f-45c6-bc75-e7bdf077d2a0)
 
 
 ### 3. [Kruskal](https://www.hackerrank.com/challenges/kruskalmstrsub/problem)
