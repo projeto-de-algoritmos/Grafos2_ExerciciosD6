@@ -18,6 +18,14 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Questões
+### 1. [Dijkstra](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
+![Alt text](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOn/assets/78980796/19278567-2c4e-4a79-a349-67e678460651)
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOn/assets/78980796/9841370c-10a3-4039-808a-f9ab9a06bfe1)
+
+### 2. [Kruskal](https://www.beecrowd.com.br/judge/pt/problems/view/1152)
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOn/assets/78980796/54872980-74fe-454c-a9e9-ff43ee935aed)
+
+
 ### 3. [Kruskal](https://www.hackerrank.com/challenges/kruskalmstrsub/problem)
 ![Alt text](./img/image.png)
 ![Alt text](./img/image1.png)
