@@ -12,7 +12,7 @@
 
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Estão presentes neste repositório quatro questões acerca do conteúdo de Grafos 2.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
@@ -38,15 +38,12 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ![Alt text](./img/image5.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+- Clone o repositório em sua máquina
+- Certifique-se que tenha o python 3.9.x ou superior instalado
+- Basta executar -> python <nome_exercio>.py
+- E em seguida preencher o prompt com os casos de teste presentes no repositorio
 
 
