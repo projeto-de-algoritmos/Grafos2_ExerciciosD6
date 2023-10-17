@@ -12,7 +12,7 @@
 
 
 ## Sobre 
-Estão presentes neste repositório quatro questões acerca do conteúdo de Grafos 2.
+Estão presentes neste repositório, quatro questões acerca do conteúdo de Grafos 2.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
