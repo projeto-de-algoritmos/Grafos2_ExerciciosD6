@@ -14,9 +14,6 @@
 ## Sobre 
 Estão presentes neste repositório, quatro questões acerca do conteúdo de Grafos 2.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
 ## Questões
 ### 1. [Dijkstra](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/description/)
 ![Alt text](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOn/assets/78980796/19278567-2c4e-4a79-a349-67e678460651)
