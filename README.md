@@ -44,6 +44,6 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 - Clone o repositório em sua máquina
 - Certifique-se que tenha o python 3.9.x ou superior instalado
 - Basta executar -> python <nome_exercio>.py
-- E em seguida preencher o prompt com os casos de teste presentes no repositorio
+- E em seguida preencher o prompt com os casos de teste presentes no repositorio -> entrada_<codigo_questao>.txt
 
 
